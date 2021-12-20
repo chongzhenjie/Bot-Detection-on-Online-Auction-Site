@@ -1,4 +1,4 @@
-# Human-or-Robot
+# Bot Detection on Online Auction Site
 
 ### Machine Learning Project: Predict if an online bid is made by a machine or a human
 
