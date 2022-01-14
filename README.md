@@ -1,4 +1,4 @@
-# Bot Detection on Online Auction Site
+# Bot Detection on Online Auction Site - Kaggle
 
 ### Machine Learning Project: Predict if an online bid is made by a machine or a human
 
