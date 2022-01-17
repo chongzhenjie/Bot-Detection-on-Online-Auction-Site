@@ -8,4 +8,4 @@ Source: https://www.kaggle.com/c/facebook-recruiting-iv-human-or-bot/overview
 <br>
 
 ### Model Validation Summary
-![download](https://user-images.githubusercontent.com/77932796/149767483-f38436a2-315c-40ff-a0b7-31bd38b16356.png)
+![download](https://user-images.githubusercontent.com/77932796/149770234-95b71773-5568-4f9a-b4a5-f0e8d293c5f5.png)
