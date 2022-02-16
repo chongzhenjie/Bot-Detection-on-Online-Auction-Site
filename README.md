@@ -1,5 +1,7 @@
 # Bot Detection on Online Auction Site - Kaggle
 Source: https://www.kaggle.com/c/facebook-recruiting-iv-human-or-bot/overview
+
+Notebook shared on Kaggle at: https://www.kaggle.com/chongzhenjie/human-or-robot/notebook
 <br>
 <br>
 
