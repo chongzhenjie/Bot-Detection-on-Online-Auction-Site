@@ -1,5 +1,5 @@
 # Bot Detection on Online Auction Site - Kaggle
-Contributors: [Chong Zhen Kang](https://github.com/shaneczk) & [Chong Zhen Jie](https://github.com/chongzhenjie)
+Contributors: [Chong Zhen Kang (Shane)](https://github.com/shaneczk) & [Chong Zhen Jie](https://github.com/chongzhenjie)
 
 <br>
 Source: https://www.kaggle.com/c/facebook-recruiting-iv-human-or-bot/overview
